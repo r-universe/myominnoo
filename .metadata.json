@@ -1,0 +1,10 @@
+[
+  {
+    "package": "mStats",
+    "oncran": true
+  },
+  {
+    "package": "u5mr",
+    "oncran": true
+  }
+]
