@@ -1,10 +1,10 @@
 [
   {
-    "package": "u5mr",
+    "package": "mStats",
     "oncran": true
   },
   {
-    "package": "mStats",
+    "package": "u5mr",
     "oncran": true
   }
 ]

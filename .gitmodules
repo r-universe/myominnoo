@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "u5mr"]
-	path = u5mr
-	url = https://github.com/myominnoo/u5mr
-	shallow = true
-	registered = true
 [submodule "mStats"]
 	path = mStats
 	url = https://github.com/myominnoo/mstats
+	shallow = true
+	registered = true
+[submodule "u5mr"]
+	path = u5mr
+	url = https://github.com/myominnoo/u5mr
 	shallow = true
 	registered = true
