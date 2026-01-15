@@ -5,6 +5,3 @@
 [submodule "mStats"]
 	path = mStats
 	url = https://github.com/myominnoo/mstats
-[submodule "u5mr"]
-	path = u5mr
-	url = https://github.com/myominnoo/u5mr
